@@ -63,7 +63,6 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 	//character preferences
 	var/slot_randomized					//keeps track of round-to-round randomization of the character slot, prevents overwriting
 	var/real_name						//our character's name
-	var/gender = MALE					//gender of character (well duh)
 	var/age = 30						//age of character
 	var/underwear = "Nude"				//underwear type
 	var/underwear_color = "000"			//underwear color
